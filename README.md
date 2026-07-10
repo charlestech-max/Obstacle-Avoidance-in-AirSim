@@ -75,4 +75,4 @@ Note: When the moving vehicle reached the destination or has collided, a episode
 
 This code repository is highly inspired from work of  Linhai Xie, Sen Wang, Niki trigoni, Andrew Markham 
 
-[[link\]]: https://github.com/xie9187/Monocular-Obstacle-Avoidance
+[[link\]]: https://github.com/xie9187/Monocular-Obstacle-Avoidance
